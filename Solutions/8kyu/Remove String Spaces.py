@@ -1,0 +1,1 @@
+no_space = lambda a: a.replace(" ", "")
