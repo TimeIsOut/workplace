@@ -1,0 +1,1 @@
+string_to_array = lambda a: a.split() if a else [""]
