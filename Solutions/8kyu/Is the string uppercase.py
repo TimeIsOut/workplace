@@ -1,0 +1,1 @@
+is_uppercase = lambda a: a.isupper()
