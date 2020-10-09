@@ -1,0 +1,1 @@
+remove_every_other = lambda lst: lst[::2]
