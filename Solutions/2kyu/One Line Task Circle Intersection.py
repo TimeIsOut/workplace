@@ -1,0 +1,1 @@
+from math import*;circleIntersection=lambda a,b,r:int(*[r*r*(t-sin(t))for t in[2*acos(min(hypot(a[0]-b[0],a[1]-b[1])/2/r,1))]])
